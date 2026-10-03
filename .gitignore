@@ -1,0 +1,34 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# C extensions
+*.so
+
+# Distribution / packaging
+bin/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+share/wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
+
+# Pytest & Allure results/reports
+.pytest_cache/
+allure-results/
+reports/
+
+# IDE specific files (PyCharm)
+.idea/
+
+# Virtual Environments
+venv/
+env/
+ENV/
